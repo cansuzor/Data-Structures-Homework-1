@@ -1,0 +1,7 @@
+1001 	TulipCo.	 10
+1002	TeaAndCoffeeCo.	 19
+1003	JamesGrapes	 23
+1004	ThomasHaanz	 35
+1005	SusanCorps	 567
+1006	TomatoInc.	 34
+1007	PizzaLoversCorp. 45
